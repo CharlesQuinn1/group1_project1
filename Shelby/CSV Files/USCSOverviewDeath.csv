@@ -1,0 +1,53 @@
+Area,Cancer Type,Year,Sex,Race,Type,Age-Adjusted Rate,Death Count,Population
+Puerto Rico,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,107,26096,16400391
+Utah,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,120.6,16297,15756196
+Hawaii,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,125.7,12281,7100371
+Colorado,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,130,39806,28424625
+Arizona,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,132.3,61176,35870327
+New Mexico,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,135.1,18115,10485106
+California,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,135.1,298279,196730122
+Connecticut,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,136.3,32910,17852743
+New York,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,137.1,171409,97574245
+Wyoming,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,138,4952,2906735
+New Jersey,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,141,79925,44427090
+Florida,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,141.4,226059,106084620
+North Dakota,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,142,6477,3801964
+Massachusetts,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,143.3,63244,34365017
+Minnesota,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,144,49649,28000800
+Texas,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,144.5,205358,143177205
+Montana,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,144.6,10451,5308517
+Washington,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,145.7,63805,37562341
+Idaho,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,145.9,14885,8771828
+Alaska,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,146.8,4942,3684943
+Maryland,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,148.9,54175,30188109
+District of Columbia,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,149.5,5154,3509871
+Virginia,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,149.7,75782,42546787
+Oregon,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,150.6,40683,20881726
+Nebraska,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,150.6,17518,9619116
+New Hampshire,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,150.7,13991,6776211
+Nevada,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,150.7,26575,15151407
+Rhode Island,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,151.6,10787,5288991
+Wisconsin,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,152.5,57432,29034872
+South Dakota,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,153,8508,4396655
+Georgia,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,153.4,87299,52582899
+Iowa,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,154.2,31947,15750001
+North Carolina,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,154.5,98615,51931125
+Illinois,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,155.3,120341,63580834
+Kansas,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,155.6,27741,14563057
+Vermont,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,156.2,6956,3121693
+Pennsylvania,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,157.3,140599,63974391
+Delaware,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,158.1,10524,4838393
+South Carolina,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,158.6,52350,25457577
+Michigan,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,160.6,104640,49869505
+Missouri,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,163.1,64487,30620775
+Maine,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,164.8,16786,6704125
+Ohio,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,166.1,126349,58376382
+Alabama,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,166.9,52183,24465938
+Indiana,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,166.9,67544,33484410
+Louisiana,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,168.3,46723,23323072
+Arkansas,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,169.7,32597,15059338
+Tennessee,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,170.4,71711,33861364
+Oklahoma,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,175.2,41419,19746692
+West Virginia,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,177.5,23324,9037121
+Mississippi,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,181,32773,14909161
+Kentucky,All Types of Cancer,2016-2020,Male and Female,All Races and Ethnicities,Mortality,182.8,50798,22309765
